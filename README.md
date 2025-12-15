@@ -52,12 +52,12 @@ endmodule
 
 ```
 **RTL LOGIC FOR FLIPFLOPS**
+<img width="1526" height="827" alt="Screenshot 2025-12-06 143353 - Copy" src="https://github.com/user-attachments/assets/00d6772a-36ff-4b44-a6cb-85de28a40c35" />
 
-![Uploading Screenshot 2025-12-06 143353.png…]()
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+<img width="1904" height="981" alt="Screenshot 2025-12-15 221154" src="https://github.com/user-attachments/assets/b16c7c4c-5d5d-4033-9d31-999f27c8754f" />
 
-![Uploading Screenshot 2025-12-15 221154.png…]()
 
 **RESULTS**
 
